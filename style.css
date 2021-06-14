@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(8, 12, 31);
+    font-family: 'Maven Pro', sans-serif;
+    overflow: hidden;
+}
+
+h2 {
+    letter-spacing: 5px;
+    font-size: 2em;
+}
+
+h4, h5{
+    letter-spacing: 2px;
+    font-size: 1em;
+}
+
+.add-text{
+    margin-left: 440px;
+}
+
+#list{
+    list-style-type: none;
+}
+.item{
+    width: 825px;
+    margin-left: 190px;
+}
